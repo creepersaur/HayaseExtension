@@ -1,8 +1,8 @@
 [
   {
-    "name": "Example Extension",
-    "id": "free-torrents",
-    "description": "Example extension containing free, public domain torrents.",
+    "name": "CreeperExtension",
+    "id": "creeper",
+    "description": "Made some extension for Hayase :D",
     "version": "0.0.2",
     "type": "torrent",
     "accuracy": "low",
@@ -11,8 +11,8 @@
     "languages": [
       "US"
     ],
-    "icon": "https://webtorrent.io/img/webtorrent-small.png",
-    "update": "gh:hayase-app/free-torrents",
-    "code": "gh:hayase-app/free-torrents/example"
+    "icon": "https://yt3.googleusercontent.com/qkx_bItUomXK-G9CKVb8e3QigqCNE7E2zFHO0Mw9OCM7pHDoJy7S-3RO_3kjQvQi2traAEAgUg=s160-c-k-c0x00ffffff-no-rj",
+    "update": "gh:hayase-app/creeper",
+    "code": "gh:hayase-app/creeper/example"
   }
 ]

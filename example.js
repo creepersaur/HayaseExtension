@@ -7,7 +7,7 @@ export default new class SeaDex extends AbstractSource {
       {
         hash: 'dd8255ecdc7ca55fb0bbf81323d87062db1f6d1c',
         link: 'dd8255ecdc7ca55fb0bbf81323d87062db1f6d1c',
-        title: 'Big Buck Bunny',
+        title: 'Creeper Aw man',
         size: 276000000,
         date: new Date('2017-03-30T23:30:01'),
         seeders: 1401,
